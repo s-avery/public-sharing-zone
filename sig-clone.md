@@ -2,6 +2,7 @@
 tags:
   - chuubos
 ---
+# LET'S TEST IF THIS CHANGE IS ADDED TO THE HARDLINK
 ## Arc: Emptiness
 - Emptiness if you’re dealing with loss, hurt, or the Outside
 - If you’re on an Emptiness Arc, then there’s something you have to live with. You’ve been touched by the Outside somehow.
